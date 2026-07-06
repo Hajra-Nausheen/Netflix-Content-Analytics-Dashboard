@@ -20,9 +20,5 @@ Kaggle Dataset → Python Data Cleaning → PostgreSQL → SQL Analysis → Powe
 - Rating Distribution
 - Interactive Filters
 
-## 🖼️ Dashboard Preview
-
-![Netflix Dashboard](screenshots/Netflix_Dashboard.png)
-
 ## 👩‍💻 Author
 Hajra Nausheen
