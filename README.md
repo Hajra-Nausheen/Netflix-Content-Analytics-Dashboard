@@ -1,24 +1,42 @@
-# 🎬 Netflix Content Analytics Dashboard
+# 🎬 Netflix Content Analysis
 
-## 📌 Overview
-An end-to-end data analytics project using Python, PostgreSQL, and Power BI to analyze Netflix Movies and TV Shows data.
+## 📌 Project Overview
+This end-to-end Data Analytics project analyzes Netflix Movies and TV Shows using Python, PostgreSQL, SQL, and Power BI. The project explores content distribution, genres, countries, ratings, and release trends.
 
-## 🛠️ Tech Stack
+## 🎯 Business Objectives
+- Analyze Netflix content distribution.
+- Identify top genres and countries.
+- Compare Movies vs TV Shows.
+- Analyze content growth over time.
+
+## 🛠️ Tools & Technologies
 - Python (Pandas)
 - PostgreSQL
 - SQL
 - Power BI
 
-## 🔄 Workflow
-Kaggle Dataset → Python Data Cleaning → PostgreSQL → SQL Analysis → Power BI Dashboard
-
-## 📊 Dashboard Features
-- Total Movies, TV Shows, and Titles
-- Top 10 Countries
-- Top 10 Genres
-- Content Added Over Years
+## 📊 Key Analysis
+- Total Titles
+- Movies vs TV Shows
+- Top Countries
+- Top Genres
 - Rating Distribution
-- Interactive Filters
+- Content Added Over Time
+
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- SQL Analysis
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+
+## 📁 Project Structure
+- Raw Dataset
+- Cleaned Dataset
+- Python Script
+- SQL Queries
+- Power BI Dashboard
+- Dashboard Screenshots
 
 ## 👩‍💻 Author
-Hajra Nausheen
+**Hajra Nausheen**
